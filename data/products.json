@@ -1,0 +1,45 @@
+[
+  {
+    "id": 1,
+    "name": "Apple",
+    "price": 3.99,
+    "category": "Fruits",
+    "image": "images/apple.png"
+    
+  },
+  {
+    "id": 2,
+    "name": "Banana",
+    "price": 2.49,
+    "category": "Fruits",
+    "image": "images/banana.png"
+  },
+  {
+    "id": 3,
+    "name": "Milk",
+    "price": 4.99,
+    "category": "Dairy",
+    "image": "images/milk.png"
+  },
+  {
+    "id": 4,
+    "name": "Bread",
+    "price": 2.99,
+    "category": "Bakery",
+    "image": "images/bread.png"
+  },
+  {
+    "id": 5,
+    "name": "Eggs",
+    "price": 5.49,
+    "category": "Dairy",
+    "image": "images/eggs.png"
+  },
+  {
+    "id": 6,
+    "name": "Tomato",
+    "price": 3.29,
+    "category": "Vegetables",
+    "image": "images/tomato.png"
+  }
+]

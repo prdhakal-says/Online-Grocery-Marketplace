@@ -1,0 +1,17 @@
+{
+  "name": "grocerystore",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch scss/style.scss assets/css/style.css"
+  },
+  "keywords": [],
+  "author": "PrashantaDhakal",
+  "url": "https://github.com/prdhakal-says",
+  "type": "commonjs",
+  "dependencies": {
+    "bootstrap": "^5.3.8",
+    "sass": "^1.98.0"
+  }
+}

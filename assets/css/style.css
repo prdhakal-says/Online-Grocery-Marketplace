@@ -1,0 +1,33 @@
+.hero {
+  height: 60vh;
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/grocery.jpg") center/cover no-repeat;
+}
+
+.card:hover {
+  transform: scale(1.05);
+  transition: 0.3s;
+}
+
+.alert-dismissible {
+  position: fixed;
+  top: 85px;
+  right: 20px;
+  z-index: 1050;
+  min-width: 320px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+  border-left: 5px solid #198754;
+  background-color: white;
+}
+.alert-dismissible i {
+  margin-right: 10px;
+  color: #198754;
+}
+@media (max-width: 576px) {
+  .alert-dismissible {
+    left: 20px;
+    right: 20px;
+    min-width: auto;
+  }
+}
+
+
